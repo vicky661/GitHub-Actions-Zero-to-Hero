@@ -1,4 +1,5 @@
 # app.py
+# Testing self-hosted runner
 def add(a, b):
     return a + b
 
